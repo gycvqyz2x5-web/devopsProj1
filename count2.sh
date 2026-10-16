@@ -1,3 +1,3 @@
-#!/bin/bash
-echo "2"
-bash count3.sh
+echo '#!/bin/bash
+echo "TWO(2)"
+bash count3.sh' > count2.sh
